@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://dl.dropbox.com/scl/fi/tl016rrc18zlr7zs2u4wi/2009.mp3?rlkey=ytse7r440l6gxho995t3kgn9z&st=ylim9wmi&dl=0", // Music streaming URL
+        musicUrl: "https://www.dropbox.com/scl/fi/h13h8e4sy1r91z8zuqyfp/Ghostly-Kisses-Heartbeat-Official-Video.mp3?rlkey=io203t49236vvq1ucsz3jbgdc&st=ps6wtw1g&dl=0", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
