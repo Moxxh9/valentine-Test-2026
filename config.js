@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Athoory",
+    valentineName: "Athoory القطوه",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,15 +22,15 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me? ❤️",                                    // First interaction
+            text: "بسبس Do you like me? ❤️",                                    // First interaction
             yesBtn: "شووور",                                             // Text for "Yes" button
-            noBtn: "بسبس",                                               // Text for "No" button
+            noBtn: "ننــووو",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
             text: "Be honest… do you realize how hot you are?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "اللي بعــده ❤️"                                         // Text for the next button
         },
         third: {
             text: "So… should the world be warned about your level of hotness? 🔥", // The big question!
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "This should be illegal honestly 🥰🔥🚀💝",  // Shows when they go past 5000%
+        extreme: " ياويلييي This should be illegal honestly 🥰🔥🚀💝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀🔥",              // Shows when they go past 1000%
         normal: "Uffff 🔥🔥🥰"                           // Shows when they go past 100%
     },
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://dl.dropbox.com/scl/fi/h13h8e4sy1r91z8zuqyfp/Ghostly-Kisses-Heartbeat-Official-Video.mp3?rlkey=io203t49236vvq1ucsz3jbgdc&st=icvn8uht&dl=0", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.1                        // Volume level (0.0 to 1.0)
     }
 };
 
