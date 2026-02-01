@@ -22,9 +22,9 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            text: "Do you like me? ❤️",                                    // First interaction
+            yesBtn: "شووور",                                             // Text for "Yes" button
+            noBtn: "بسبس",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Confirmed: Dr. Athoory is a menace, Confidence, brains, and looks? Thats an unfair combo. 🎉💝💖💝💓",
+        title: "Confirmed: Athoory is Supperwomen, Confidence, brains, and looks? Thats an unfair combo. 🔥🔥🔥🔥💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁🔥🔥💋🔥💕"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://www.dropbox.com/scl/fi/h13h8e4sy1r91z8zuqyfp/Ghostly-Kisses-Heartbeat-Official-Video.mp3?rlkey=io203t49236vvq1ucsz3jbgdc&st=ps6wtw1g&dl=0", // Music streaming URL
+        musicUrl: "https://dl.dropbox.com/scl/fi/h13h8e4sy1r91z8zuqyfp/Ghostly-Kisses-Heartbeat-Official-Video.mp3?rlkey=io203t49236vvq1ucsz3jbgdc&st=icvn8uht&dl=0", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
