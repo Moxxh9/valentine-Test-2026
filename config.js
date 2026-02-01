@@ -28,7 +28,7 @@ const CONFIG = {
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
-            text: "HBe honest… do you realize how hot you are?",                          // For the love meter
+            text: "Be honest… do you realize how hot you are?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
